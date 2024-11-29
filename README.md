@@ -6,8 +6,6 @@ cd <repository-folder>
 Install Dependencies
 
 npm install
-
-
-** Start the Server**
+Start the Server
 
 npm run start
